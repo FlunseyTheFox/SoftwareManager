@@ -1,0 +1,9 @@
+New:
+The app makes desktop shortcuts for installed apps
+New update method used
+
+Changes:
+The app should now be located into the app's folder, if you are running it though a EXE download and run the setup file here:  https://github.com/FlunseyTheFox/SoftwareManager/blob/master/Setup.exe?raw=true  [This will be for intergration with the SoftwareManager later]
+
+Bug Fixes:
+Disabled the maximize screen on screens that just don't look right when maximized
