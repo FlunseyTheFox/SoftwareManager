@@ -1,0 +1,7 @@
+New:
+Can now have integration with apps
+Option to check for updates on launch
+
+Fixes:
+Change log not locking editing
+App Icon should now show up on the desktop shortcut as intended. (Reinstall if not showing up right away)
