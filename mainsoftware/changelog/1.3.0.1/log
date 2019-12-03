@@ -1,0 +1,8 @@
+NEW:
+None
+
+CHANGES:
+None
+
+FIXES:
+Fixed an issue where pressing "refresh list" then trying to make a desktop shortcut would crash the program.
