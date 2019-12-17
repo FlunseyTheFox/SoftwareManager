@@ -1,0 +1,1 @@
+Fixed an issue where downloading the music player would not make the uninstall button clickable unless you clicked to a different item and back onto it
