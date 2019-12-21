@@ -1,0 +1,12 @@
+NEW:
+Added a option to have the program auto-hide when you launch a program and then auto-reopen when you close the program. (less taskbar clutter) :D
+
+CHANGES:
+None
+
+FIXES:
+Fixed an issue where the Music Player would fail to create a desktop shortcut
+Fixed an issue where the "Program Installed" notifcation would not show for Music Player
+
+DEV NOTES:
+Have a good Christmas, if you celebrate it.
