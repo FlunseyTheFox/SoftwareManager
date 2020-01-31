@@ -1,0 +1,8 @@
+NEW:
+Home page color changes and does not require relaunch on toggle of dark mode.
+
+CHANGES:
+None
+
+FIXES:
+Settings page element did not have proper color when changing dark mode on and on. (FIXED)
