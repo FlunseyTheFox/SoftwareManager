@@ -1,0 +1,8 @@
+NEW:
+Automatic light/dark mode switching option (default)
+
+CHANGES:
+Light/Dark mode options have been moved into a menu menu instead of being directly inside of the settings landing page.
+
+FIXES:
+Theme settings no longer lost on program update.
