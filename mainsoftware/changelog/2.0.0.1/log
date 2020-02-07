@@ -1,0 +1,8 @@
+NEW:
+A notifcation will show just once when you launch a program stating that the software manager minimized.
+
+CHANGES:
+Dark mode now has a darker control bar at the top.
+
+FIXES:
+"OK" button in the themes page would save but not autoclose the window (fixed)
