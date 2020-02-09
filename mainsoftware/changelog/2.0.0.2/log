@@ -1,0 +1,8 @@
+NEW:
+Added support for theme launch requests from apps.
+
+CHANGES:
+None
+
+FIXES:
+Dark/light theme not applying to update window (fixed)
