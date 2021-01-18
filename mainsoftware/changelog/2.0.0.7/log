@@ -1,0 +1,8 @@
+NEW:
+None
+
+CHANGES:
+None
+
+FIXES:
+Fixed a rare crash that would happen on slower network conditions
