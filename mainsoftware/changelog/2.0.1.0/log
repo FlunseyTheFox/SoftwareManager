@@ -1,0 +1,11 @@
+NEW:
+Troubleshooting logs now available in settings (Disabled by default)
+Logs button added to right click context menu
+Added code for an upcoming feature
+
+CHANGES:
+Better error handling
+
+FIXES:
+Improved performance on launch
+Fixed a issue where the system tray icon would not disappear on some windows builds after the application has been closed 
