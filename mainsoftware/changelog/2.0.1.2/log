@@ -1,0 +1,11 @@
+NEW:
+Program will show up inside of 'Add And Remove Programs" like normal programs
+Built in uninstaller! (no need for the SETUP file to remove it, ironic...)
+Option to hide Software Manager from "Add or remove programs" in settings
+Program will auto download some missing files if found missing on launch, like a good windows program.
+
+CHANGES:
+People will no longer be annoyed because they could not figure out how to uninstall because it was not listed in 'add or remove programs'
+
+FIXES:
+None
