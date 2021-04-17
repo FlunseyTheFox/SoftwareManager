@@ -1,0 +1,8 @@
+NEW:
+Added support for Discord Playing Status.
+
+CHANGES:
+Fixed "launch/install" button always saying "Install" for MusicPlayer
+
+FIXES:
+None
